@@ -2,8 +2,10 @@
 Python程式設計與SQL資料庫整合應用班01期
 
 ---
+## 上課連結 Meet
+https://meet.google.com/zfb-kupf-nok
 
-## 上課網址
+## 課程資源 GitHub
 https://github.com/roberthsu2003
 
 ## 課堂錄影
