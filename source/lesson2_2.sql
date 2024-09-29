@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS "20240929_SQL_source_hospital";
