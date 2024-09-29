@@ -1,0 +1,3 @@
+CREATE DATABASE mydatabasedp;
+DROP DATABASE IF EXISTS mydatabasedp;
+CREATE DATABASE mydatabase_a11;
