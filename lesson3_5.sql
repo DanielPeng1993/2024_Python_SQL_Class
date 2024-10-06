@@ -40,6 +40,8 @@ RETURNING *
 
 INSERT INTO student VALUES(2, '小黃','生物',90);
 
+INSERT INTO student VALUES(6, '小橘','地理',90);
+
 /*更改資料*/
 /*UPDATE SET WHERE*/
 UPDATE student
