@@ -9,7 +9,7 @@ https://meet.google.com/zfb-kupf-nok
 https://github.com/roberthsu2003
 
 ## 編程範例
-https://github.com/roberthsu2003/__2024_09_22_chihlee_sql
+https://github.com/roberthsu2003/__2024_09_22_chihlee_sql__
 
 ## 課堂錄影
 https://github.com/roberthsu2003/__2024_09_22_chihlee_sql__/tree/main/link
